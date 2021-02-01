@@ -1,4 +1,4 @@
 ## Welcome to LeoZappi Page 
 
 
-Abolt => [Link](../abolt.html).
+Abolt => [Link](./abolt.html).
