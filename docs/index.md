@@ -1,4 +1,4 @@
 ## Welcome to LeoZappi Page 
 
 
-Abolt [GitHub Flavored Markdown](./abolt.html).
+Abolt [GitHub Flavored Markdown](../abolt.html).
